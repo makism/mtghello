@@ -5,6 +5,6 @@ Results and visualizations from mtggg; probably in Jupyter notebooks format ;)
 
 <table>
     <tr>
-        <td><img src="assets/mtg/m20.png" style="width: 100px;"/></td>
+        <td><img src="assets/mtg/m20.png" width="100"/></td>
     </tr>
 </table>
